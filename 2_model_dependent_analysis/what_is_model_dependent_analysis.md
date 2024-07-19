@@ -19,7 +19,7 @@ The logical process underlying model-dependent analysis is rather simple, we nee
 - some experimental data to **compare** with; and 
 - a **figure of merit** to compare our simulation to our experiment. 
 
-The word **simulation** above is being used broadly above, but in the context of neutron reflectometry, we are interested calculating the reflectivity that some model system would produce. 
+The word **simulation** above is being used broadly, but in the context of neutron reflectometry, we are interested in calculating the reflectivity that some model system would produce. 
 We will not cover how to get the experimental data, but we will cover in detail how to simulate our data and how we compare it with the experimental data. 
 Additionally, we will look at how we can **improve** our model and some algorithms that are popular in reflectometry analysis to do this. 
 
